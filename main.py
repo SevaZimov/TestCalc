@@ -22,7 +22,7 @@ def div(a,b):
 
 def hello():
     print(f"Hello, {input('What is your name? ')}!")
-
+#Функция "ПРИВЕТ"
 
 if __name__ == "__main__":
     print(plus(1,2))
