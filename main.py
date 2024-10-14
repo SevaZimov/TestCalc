@@ -20,6 +20,10 @@ def div(a,b):
 #Функция целочисленного деления
 
 
+def hello():
+    print(f"Hello, {input('What is your name? ')}!")
+
+
 if __name__ == "__main__":
     print(plus(1,2))
     print(div(4,3))
