@@ -13,5 +13,10 @@ def minus(a,b):
 def multipl(a,b):
     return a*b
 
+
+def cringe():
+    print("Bruh...")
+
+
 if __name__ == "__main__":
     print(plus(1,2))
